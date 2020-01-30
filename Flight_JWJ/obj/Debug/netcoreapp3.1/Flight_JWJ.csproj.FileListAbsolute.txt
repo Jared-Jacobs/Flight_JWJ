@@ -1,0 +1,10 @@
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\bin\Debug\netcoreapp3.1\Flight_JWJ.exe
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\bin\Debug\netcoreapp3.1\Flight_JWJ.deps.json
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\bin\Debug\netcoreapp3.1\Flight_JWJ.runtimeconfig.json
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\bin\Debug\netcoreapp3.1\Flight_JWJ.runtimeconfig.dev.json
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\bin\Debug\netcoreapp3.1\Flight_JWJ.dll
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\bin\Debug\netcoreapp3.1\Flight_JWJ.pdb
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\obj\Debug\netcoreapp3.1\Flight_JWJ.AssemblyInfoInputs.cache
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\obj\Debug\netcoreapp3.1\Flight_JWJ.AssemblyInfo.cs
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\obj\Debug\netcoreapp3.1\Flight_JWJ.dll
+C:\Users\jjpla\source\repos\Flight_JWJ\Flight_JWJ\obj\Debug\netcoreapp3.1\Flight_JWJ.pdb
